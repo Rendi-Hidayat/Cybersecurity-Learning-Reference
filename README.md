@@ -1,8 +1,10 @@
 # Referensi-Belajar-Cybersecurity
 
-Author : https://linktr.ee/Rendi_Hidayat
+Author : Rendi Hidayat
 
-Team : https://linktr.ee/SkullCyberSecurity
+Telegram : https://t.me/GhostbladeHaxor
+
+Team : Skull Cyber Security
 
 Kalian bingung mau belajar Cybersecurity tetapi tidak ada referensi? disini solusinya
 
