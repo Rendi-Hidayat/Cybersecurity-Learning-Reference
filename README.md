@@ -10,6 +10,12 @@ Nakanosec
 
 https://www.nakanosec.com/
 
+LinuxSec 
+
+https://www.linuxsec.org/
+
+LinuxSec Exploit
+
 Security Idiots
 
 https://www.securityidiots.com/
