@@ -2,6 +2,8 @@
 
 Author : https://linktr.ee/Rendi_Hidayat
 
+Team : https://linktr.ee/SkullCyberSecurity
+
 Kalian bingung mau belajar Cybersecurity tetapi tidak ada referensi? disini solusinya
 
 Website :
