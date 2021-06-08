@@ -16,6 +16,8 @@ https://www.linuxsec.org/
 
 LinuxSec Exploit
 
+https://exploit.linuxsec.org/
+
 Security Idiots
 
 https://www.securityidiots.com/
