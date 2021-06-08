@@ -2,7 +2,7 @@
 
 Author : https://linktr.ee/Rendi_Hidayat
 
-Referensi belajar Pentest
+Kalian bingung mau belajar Cybersecurity tetapi tidak ada referensi? disini solusinya
 
 Website :
 
