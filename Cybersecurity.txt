@@ -1,12 +1,20 @@
-Author : https://linktr.ee/Rendi_Hidayat
+Referensi Belajar Cybersecurity
 
-Referensi belajar Pentest
+Author : https://linktr.ee/Rendi_Hidayat
 
 Website :
 
 Nakanosec
 
 https://www.nakanosec.com/
+
+LinuxSec 
+
+https://www.linuxsec.org/
+
+LinuxSec Exploit
+
+https://exploit.linuxsec.org/
 
 Security Idiots
 
@@ -50,17 +58,6 @@ IT Security Indonesia
 https://t.me/itsecurityindonesia
 
 
-Lowongan Kerja IT :
-
-Lowongan Kerja IT
-
-https://t.me/LowonganKerjaIT
-
-Lowongan kerja Cybersecurity
-
-https://t.me/LokerCybersecurity
-
-
 Youtube :
 
 NetworkChuck
@@ -78,3 +75,14 @@ https://youtube.com/c/OnnoCenter
 Doddy Ferdiansyah
 
 https://youtube.com/c/DoddyFerdiansyah
+
+
+Jika kalian sudah mahir dalam Cybersecurity kalian bisa langsung mencari kerja disini :
+
+Lowongan Kerja IT
+
+https://t.me/LowonganKerjaIT
+
+Lowongan kerja Cybersecurity
+
+https://t.me/LokerCybersecurity
