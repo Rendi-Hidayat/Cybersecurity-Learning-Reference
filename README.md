@@ -1,12 +1,10 @@
 # Referensi-Belajar-Cybersecurity
 
-Author : Rendi Hidayat
-
 Telegram : https://t.me/skullcybersecurity
 
 Team : Skull Cyber Security
 
-Kalian bingung mau belajar Cybersecurity tetapi tidak ada referensi? disini solusinya
+Are you confused about learning Cyber Security but no reference? here is the solution
 
 Website :
 
@@ -83,7 +81,7 @@ Doddy Ferdiansyah
 https://youtube.com/c/DoddyFerdiansyah
 
 
-Jika kalian sudah mahir dalam Cybersecurity kalian bisa langsung mencari kerja disini :
+If you are already proficient in Cyber Security, you can immediately look for work here:
 
 Lowongan Kerja IT
 
