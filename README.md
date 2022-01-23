@@ -2,7 +2,7 @@
 
 Author : Rendi Hidayat
 
-Telegram : https://t.me/GhostbladeHaxor
+Telegram : https://t.me/skullcybersecurity
 
 Team : Skull Cyber Security
 
