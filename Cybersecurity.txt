@@ -36,6 +36,14 @@ Pentest Lab
 
 https://pentestlab.blog/
 
+Null Byte
+
+https://null-byte.wonderhowto.com/
+
+Geeks For Geeks
+
+https://www.geeksforgeeks.org/introduction-to-ethical-hacking
+
 
 Forum :
 
@@ -79,6 +87,10 @@ https://youtube.com/c/OnnoCenter
 Doddy Ferdiansyah
 
 https://youtube.com/c/DoddyFerdiansyah
+
+Semi Yulianto
+
+https://www.youtube.com/c/SemiYulianto
 
 
 If you are already proficient in Cyber Security, you can immediately look for work here:
