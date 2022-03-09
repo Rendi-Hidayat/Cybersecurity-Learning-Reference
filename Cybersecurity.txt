@@ -20,6 +20,10 @@ LinuxSec Exploit
 
 https://exploit.linuxsec.org/
 
+Institut Teknologi Tangerang Selatan
+
+https://opencourse.itts.ac.id/
+
 Security Idiots
 
 https://www.securityidiots.com/
